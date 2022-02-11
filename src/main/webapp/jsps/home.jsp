@@ -21,7 +21,7 @@
 		Chittoor,
 		Bangalore,
 		+91-8297351182,
-		devopstrainingbr@gmail.com
+		dineshnp889@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
