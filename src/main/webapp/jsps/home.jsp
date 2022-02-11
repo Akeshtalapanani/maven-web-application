@@ -19,7 +19,6 @@
 	<span style="font-weight: bold;">
 		Dinesh Software Solutions, 
 		Chittoor,
-		Bangalore,
 		+91-8297351182,
 		dineshnp889@gmail.com
 		<br>
